@@ -15,6 +15,7 @@ user_gems_dir() {
   1.9.*   ) gemdir="ruby/1.9.1" ;;
   2.0.*   ) gemdir="ruby/2.0.0" ;;
   2.1.*   ) gemdir="ruby/2.1.0" ;;
+  2.2.*   ) gemdir="ruby/2.2.0" ;;
   jruby-* ) gemdir="jruby/1.9" ;;
   rbx-2.* ) gemdir="rbx/2.1" ;;
   esac
