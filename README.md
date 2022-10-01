@@ -1,6 +1,6 @@
 # rbenv plugin for user gems support
 
-> **Warning**. 
+> **Note**  
 > This plugin is deprecated since the equivalent functionality was added to rbenv core.
 
 If you `gem install --user-install bcat`, the gems will get installed under your
